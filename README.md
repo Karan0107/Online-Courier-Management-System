@@ -1,1 +1,1 @@
-# Online-Courier-Management-System
+# Online-Courier-Management-System mini project
